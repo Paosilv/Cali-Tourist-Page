@@ -1,7 +1,6 @@
 # D197 Version Control
-Student ID:012268180
-
-
+Version Number:2.5.5.0
+ 
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
