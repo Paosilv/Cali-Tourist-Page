@@ -1,0 +1,66 @@
+commit 7426ff29a34f9e7b115e8784b8845113d412da8e
+Merge: e8f8df2 9589370
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Fri Jul 25 10:31:58 2025 -0500
+
+    corrected merge conflict in readme file
+
+commit e8f8df260fdc1da846e4cf4ca476d5acf057b05b
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Fri Jul 25 10:16:16 2025 -0500
+
+    merge conflict resolved
+
+commit 82d6d4075e94b0815e2bdb0874f3f81c9e844007
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Fri Jul 25 10:02:56 2025 -0500
+
+    added version number to readme file in working branch
+
+commit 9589370ffcbdd85eaaed5168d1ba6b573165ac71
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Fri Jul 25 09:58:19 2025 -0500
+
+     corrected the added note and readded the student id on readme.md file
+
+commit 1369e0a932c994587fe60648bbec57087c0005d7
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Fri Jul 25 09:53:02 2025 -0500
+
+    added version number to paos test branch on readme.md file
+
+commit 3ff25612d98cc890e864bd16e1870b85c3c18fdd
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Thu Jul 24 21:29:08 2025 -0500
+
+    added student id to working branch on README.MD
+
+commit a25a016c1706ca1a8bac2e9bc1895d37d76d5516
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Thu Jul 24 20:58:40 2025 -0500
+
+    added an underlining tag to the title in about.html
+
+commit a905c1361fcdd303845e791506f2ccb4fb896726
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Thu Jul 24 20:52:00 2025 -0500
+
+    added doc type and language and a bold header to my file as well as a small body in aboutme.html
+
+commit ced782b1981d7c71525595df2d39df3c40237a12
+Author: Paosilvester <paisea1@wgu.edu>
+Date:   Thu Jul 24 20:09:37 2025 -0500
+
+    added header tag with name with exclamation point in wgu.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit

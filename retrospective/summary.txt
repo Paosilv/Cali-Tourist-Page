@@ -1,0 +1,11 @@
+Resolved the merging conflict in E1 by removing the following: 
+1. >>>>>> HEAD
+2. =======
+3. >>>>> Paos_testbranch
+
+The 3 changes made in C1 are as follows:
+1. added header in wgu.html file
+2. added doc type,language,bold header,body to aboutme.html file
+3. added an underlining tag to the title in about.html file
+ 
+
